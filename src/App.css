@@ -1,0 +1,13 @@
+.half {
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+}
+.area {
+  width: 100%;
+  height: 500px;
+}
+.component-block {
+  padding: 10px;
+  background: rgba(128, 128, 128, 0.3);
+}
